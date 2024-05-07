@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./chunks/framework.CWogCIZR.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"sonic/index.md","filePath":"sonic/index.md"}'),a={name:"sonic/index.md"};function o(s,c,r,i,d,p){return n(),t("div")}const f=e(a,[["render",o]]);export{m as __pageData,f as default};
