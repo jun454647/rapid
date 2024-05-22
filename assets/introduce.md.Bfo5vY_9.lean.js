@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.DDVNl4kl.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"introduce.md","filePath":"introduce.md"}'),o={name:"introduce.md"};function a(c,n,s,d,i,p){return r(),t("div")}const f=e(o,[["render",a]]);export{m as __pageData,f as default};

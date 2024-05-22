@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.DDVNl4kl.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"project/sonic/home.md","filePath":"project/sonic/home.md"}'),c={name:"project/sonic/home.md"};function r(a,s,n,p,i,m){return o(),t("div")}const f=e(c,[["render",r]]);export{d as __pageData,f as default};
